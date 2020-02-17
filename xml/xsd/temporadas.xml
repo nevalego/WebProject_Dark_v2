@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<temporadas xsi:schemaLocation="" "temporadas.xsd">
+<temporadas>
+    <temporada t="1">
+        <episodios>
+            <episodio ep="1" titulo="Secretos">
+                <resumen>
+                    Dos meses despues de la muerte de su padre, Jonas le cuenta a su terapeuta que continua viendo a su
+                    padre en sus suenios ya que cree que el trata de explicarle el porque tomo la decision de acabar con
+                    su vida; y despues de tener esta conversacion, Jonas regresa a la escuela y alli es recibido por uno
+                    de sus mejores amigos. En otro lugar; los papas de Erik Obendorf llegan a la estacion de policia
+                    para exigirle a los agentes una explicacion sobre el paradero de su hijo; quien lleva desaparecido
+                    desde hace trece dias. Mientras tanto en la escuela, Katharina convoca a los estudiantes a una
+                    asamblea para hablar de la desaparicion de su companiero Erik y pedirles una colaboracion para dar de
+                    una vez por todas con el paradero de este joven. Entre tanto, la mama de Ulrich le cuenta a su hijo
+                    que nuevamente vio algo extranio en el bosque y por esto quiere mostrarle la prueba que logro
+                    encontrar.
+                </resumen>
+                <duracion>51 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Suicidio de Michael</descripcion>
+                        <anio>2019</anio>
+                        <lugar>Cabania de los Kahnwald, Winden</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Michael</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>44</edad>
+                                <contexto>Michael es el padre de Jonas Kahnwald. Deja una carta
+                                    a su madre adoptiva, enfermera en el hospital de Windem en 1986.
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Desaparicion de Erik y Mikkel Nielsen</descripcion>
+                        <anio>2019</anio>
+                        <lugar>Cuevas de Winden</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Mikkel</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>11</edad>
+                                <contexto>Es el hermano de Martha y Magnus. Sus padres son el
+                                    policia Ulrich Nielsen y la directora del instituto Katharina
+                                </contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Erik</nombre>
+                                <familia>Obendorf</familia>
+                                <edad>15</edad>
+                                <contexto>Erik se habia escapado de casa. Junto a su padre Jürgen vendia
+                                    drogas en el instituto para comprarse una moto. Una bolsa de
+                                    estupefacientes se queda escondida en la entrada a las cuevas de Winden.
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>La policia encuentra el cuerpo con la cara
+                            y oidos fundidos con un walkman y una moneda del 86
+                        </descripcion>
+                        <anio>2019</anio>
+                        <lugar>En el bosque de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Ulrich</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>48</edad>
+                                <contexto>Ulrich se da cuenta de que el cuerpo pertenece a
+                                    su hermano Mads desaparecido en 1986
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+            <episodio ep="2" titulo="Mentiras" >
+                <resumen>La policia queda desconcertada tras un descubrimiento macabro, y Ulrich busca una orden de
+                    allanamiento para la planta de energia. Un extranio se registra en el hotel
+                </resumen>
+                <duracion>44 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Ulrich avanza en la investigación adentrandose en las
+                            cuevas, donde ve una puerta de la central. Ademas encuentra monedas
+                            del 86 en cada de los Obendorf.
+                        </descripcion>
+                        <anio>1986</anio>
+                        <lugar>Cuevas de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Ulrich</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>48</edad>
+                                <contexto>El jefe de la central no deja que la registre
+                                    sin una orden de la policia
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Jonas encuentra un mapa sobre las cuevas de
+                            Windem que el habia hecho
+                        </descripcion>
+                        <anio>1986</anio>
+                        <lugar>Cuevas de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>17</edad>
+                                <contexto>Michael habia dibujado un mapa que
+                                    muestra los recorridos de las cuevas y adonde llevan
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Mikkel aparece en las cuevas y busca su casa, pero se
+                            encuentra a su padre con 15 anios
+                        </descripcion>
+                        <anio>1986</anio>
+                        <lugar>Cuevas de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Mikkel</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>11</edad>
+                                <contexto>En 2019 desaparece y vuelve a aparecer en 1986</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+            <episodio ep="3" titulo="Pasado y Presente">
+                <resumen>El capitulo comienza cuando Mikkel, despues de encontrarse con un muy joven Ulrich y una joven
+                    Katherina al llegar a la que seria su casa, entra al hogar y se encuentra deprimida por no
+                    encontrar a su hijo desaparecido Mads. Cuando ve que Mikkel entra a la casa, le pregunta donde esta
+                    su hijo, debido a la ansiedad y desesperación, lo termina lastimando cosa que Mikkel sale
+                    rapidamente del lugar.
+                </resumen>
+                <duracion>45 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Mikkel esta herido en una pierna y el policia de Windem le lleva al hospital,
+                            donde la enfermera Ines Kahnwald le cuida
+                        </descripcion>
+                        <anio>1986</anio>
+                        <lugar>Hospital de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Mikkel</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>13 anios</edad>
+                                <contexto>Mikkel en ningun momento revela su apellido, pues sabe
+                                    que sus padres aun no se han casado ni tienen hijos. Conoce a Ines, que lo
+                                    adopta y cria como Michael Kahnwald.
+                                </contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Femenino</sexo>
+                                <nombre>Ines</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>47</edad>
+                                <contexto>Ines es hija del policia que en 1953 es jefe de Policia en Windem.
+                                    En 1986 trabaja en el hospital, donde conoce a Mikkel y lo adopta.
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+            <episodio ep="4" titulo="Vidas dobles">
+                <resumen>
+                    Extranios acontecimientos provocan a Charlotte una sensacion de deja vu, y sospecha que Peter oculta
+                    algo. Franziska pierde los nervios cuando Magnus la acorrala.
+                </resumen>
+                <duracion>47 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Jonas se va a explorar las cuevas con el mapa de su padre. El
+                        Jonas del futuro le ve.</descripcion>
+                        <anio>2019</anio>
+                        <lugar>Cuevas de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>17</edad>
+                                <contexto>Descubre el tunel y viaja a 1986</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+
+                    <suceso>
+                        <descripcion>Charlotte toma la tarjeta de memoria una de las camaras
+                        de las carreteras de Windem y cree que las huellas del neumático son
+                            del coche de su marido por las fotos. La tierra roja del cuerpo es de la cabania de los
+                        Doppler, la familia de su marido Peter. </descripcion>
+                        <anio>2019</anio>
+                        <lugar>Oficinas de la Policia de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Femenino</sexo>
+                                <nombre>Charlotte</nombre>
+                                <familia>Doppler</familia>
+                                <edad>35</edad>
+                                <contexto>Recuerda los pájaros, los ninios desaparecidos
+                                    y cree que hay relación con lo que paso hace 33 anios</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Elisabeth vuelve a casa con Yasin. Yasin desaparece.</descripcion>
+                        <anio>2019</anio>
+                        <lugar>Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Femenino</sexo>
+                                <nombre>Elisabeth</nombre>
+                                <familia>Doppler</familia>
+                                <edad>9</edad>
+                                <contexto>Ella y su amigo Yasin eran "novios"</contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Yasin</nombre>
+                                <familia>Friese</familia>
+                                <edad>9</edad>
+                                <contexto>Yasin es un ninio sordo que es secuestrado por Helge, en
+                                uno de los experimentos de Noah de viajes en el tiempo, al igual
+                                que Erik Obendorf.</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+            <episodio ep="5" titulo="Verdades">
+                <resumen>La obsesion de Hannah con Ulrich se vuelve malsana, el desconocido le pide a Regina que
+                    entregue un paquete y Martha se encuentra dividida entre Jonas y Bartosz.
+                </resumen>
+                <duracion>45 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Jonas del futuro se marcha del hotel y encarga a Regina el envio de
+                        un paquete para esa misma noche a la direccion de Jonas el de 2019. Jonas lee la carta de
+                        suicidio de su padre donde le cuenta quien es.</descripcion>
+                        <anio>2019</anio>
+                        <lugar>Hotel Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>30</edad>
+                                <contexto>Jonas del futuro conoce a Jonas de 2019 en la tumba de su padre.
+                                Después se marcha a 1986 a la tienda del abuelo de los Doppler</contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>17</edad>
+                                <contexto>A Jonas le lleva el paquete que contiene una linterna, la carta de
+                                suicido de su padre y un aparato.</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Noah habla con Bartosz y Bartosz le cuenta a Jonas que ha quedado con el camello de
+                            Erik para que vaya con él esa noche. Finalmente Jonas no aparece.
+                        </descripcion>
+                        <anio>2019</anio>
+                        <lugar>Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Bartosz</nombre>
+                                <familia>Tiedemann</familia>
+                                <edad>17</edad>
+                                <contexto>Martha no responde las llamadas de Bartosz</contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>17</edad>
+                                <contexto>Jonas fue al insituto a ver la obra de teatro de Martha. Después de
+                                la obra hablan y ella le besa.</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Ulrich le pide a Hannah que se aleje de el y de su familia.
+                        </descripcion>
+                        <anio>2019</anio>
+                        <lugar>Comisaria de Policia de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Femenino</sexo>
+                                <nombre>Hannah</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>36</edad>
+                                <contexto>Hannah esta tan obsesionada que le contesta que no le sera tan facil
+                                    librarse de ella.</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Mikkel en 1986 conoce a Noah en el hospital y hablan de la creación del mundo.
+                            Ines lo adopta para evitar que lo lleven al orfanato. Mikkel y Hannah se conocen.
+                        </descripcion>
+                        <anio>1986</anio>
+                        <lugar>Hospital de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Mikkel</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>11</edad>
+                                <contexto>Mikkel le hace un truco de magia en el patio del hospital. Hannah iba con
+                                su padre en la furgoneta del servicio de lavado</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Katharina y Ulrich hacen el amor. Hannah los ve desde la ventana y se lo cuenta
+                        a su padre. Declara ante el policia Egon Tiedemann como si hubiera sido una violacon.
+                        Arrestan a Ulrich</descripcion>
+                        <anio>1986</anio>
+                        <lugar>Vestuario Instituto Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Egon</nombre>
+                                <familia>Tiedemann</familia>
+                                <edad>74</edad>
+                                <contexto>Egon llevaba tiempo detras de Ulrich por la desparicion de su
+                                hermano Mads y encuentra la excusa para arrestarlo</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+            <episodio ep="6" titulo="Sic mundus creatus est" >
+                <resumen>Ulrich investiga el pasado en busca de respuestas y desentierra perturbadores secretos
+                    familiares. Equipado con nuevas herramientas, Jonas se adentra en la caverna.
+                </resumen>
+                <duracion>49 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Jonas decide no contarle a su madre la verdad sobre Michael y va a
+                            las cuevas con el mapa, la linterna y la maquina. Mientras, Tronte Nielsen
+                        y Peter Doppler esperan en el bunker a que se cumplan los hechos del
+                        cuaderno de Noah. Jonas aparece en 1986 y Tronte y Peter ven las luces parpadear.
+                        </descripcion>
+                        <anio>2019</anio>
+                        <lugar>Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>17</edad>
+                                <contexto>En la cueva sigue un hilo rojo que le lleva a la puerta
+                                del tunel en el que toma la direccion de la derecha y aparece en 1986</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Ulrich descubre que en el caso de Mads su madre habia declarado que su padre Tronte
+                        estaba en casa, y no habia sido asi. Le pregunta a Tronte donde estaba la noche
+                            de la desaparicion de Mads. Su mujer sale en su defensa porque sabia que le era infiel con
+                            Claudia Tiedemann. Ulrich cree que Claudia o su hija Regina tienen algo que ver. Cuando va
+                            a hablar con ella le cuenta que fue Hannah quien le acuso de violacion.
+                        </descripcion>
+                        <anio>2019</anio>
+                        <lugar>Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Femenino</sexo>
+                                <nombre>Regina</nombre>
+                                <familia>Tiedemann</familia>
+                                <edad>38</edad>
+                                <contexto>Regina acaba de conocer su diagnostico de cancer de mama. Ulrich
+                                le pregunta sobre Mads y ella le hace sentir culpable, ya que si ella no hubiera
+                                    tenido miedo de Ulrich y de Katharina , Mads no la hubiera acompañado, y no
+                                    hubiera vuelto solo a casa aquel dia.
+                                </contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Ulrich</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>53</edad>
+                                <contexto>Ulrich se da cuenta de que Hannah esta mal de la cabeza. Ella
+                                le da una bofetada. </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Katharina descubre que la amante de su marido es Hannah</descripcion>
+                        <anio>2019</anio>
+                        <lugar>Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Femenino</sexo>
+                                <nombre>Katharina</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>39</edad>
+                                <contexto>Ve que un numero de telefono que no conoce se repite
+                                    en la factura de su marido. Llama a ese numero y se lo coje Hannah</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Ulrich confirma que el cuerpo encontrado es el de su hermano desparecido
+                            por un corte debajo de la barbilla.
+                        </descripcion>
+                        <anio>2019</anio>
+                        <lugar>Hospital Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Ulrich</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>43</edad>
+                                <contexto>El corte se lo habian hecho jugando segun le habia contado su madre</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+            <episodio ep="7" titulo="Encrucijadas">
+                <resumen>Ulrich busca a la doctora de medicina legal para preguntarle que haran con el cuerpo que
+                    encontraron en el bosque ya que quiere saber si es posible que este cuerpo se haya conservado
+                    por mas de treinta y tres anios. Jonas llega a su escuela y al estar alli se da cuenta que las cosas
+                    parecen estar fuera de control y por esto se acerca una chica para preguntarle en que fecha se
+                    encuentran. Despues de conseguir el permiso para entrar a la planta nuclear; Charlotte se dirige a
+                    este lugar con el fin de encontrar pistas que la lleven a dar con el paradero de Mikkel; y Ulrich
+                    trata de indagar en los expedientes que pertenecian a la desaparicion de su hermano. Al encontrarse
+                    con el jefe de policia; Jonas trata de explicarle que se siente muy enfermo y por esto se dirige al
+                    hospital; y despues de revisar los expedientes de su hermano; Ulrich llama a Charlotte para decirle
+                    que su suegro puede estar relacionado con la desaparicion de su hermano y lo que esta sucediendo
+                    ahora con su hijo y los otros dos ninios
+                </resumen>
+                <duracion>51 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>La policia consigue la orden de registro de la central. Ulrich le cuenta
+                            Charlotte la teoria y ella lo destituye.
+                        </descripcion>
+                        <anio>2019</anio>
+                        <lugar>Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Ulrich</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>43</edad>
+                                <contexto>Ulrich se abalanza sobre Helge en el asilo y consigue que le destituyan del caso
+                                y le dan unso dias libres</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Jonas intenta llevarse a Mikkel al 2019, pero el Jonas del futuro le advierte
+                            que se borraria a si mismo, que debe elegir bien.
+                        </descripcion>
+                        <anio>1986</anio>
+                        <lugar>Hospital de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>17</edad>
+                                <contexto>Jonas debe decidir si vive su vida, o termina con ella y se la da a su padre
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+
+                </sucesos>
+            </episodio>
+            <episodio ep="8" titulo="Lo que se siembra, eso mismo se cosecha" >
+                <resumen>Charlotte le pregunta a su hija menor si ella sabe que les pudo pasar a sus companieros de clase
+                    y ademas quiere que le cuente con detalles como era el sujeto con el que se encontro de regreso a
+                    casa; despues de hablar con su hija, Charlotte le pide a su esposo que le diga la verdad y le
+                    asegure que el no tuvo nada que ver con las desapariciones de los tres ninios. En otro lugar; Jonas
+                    le pregunta a su madre como se conocio con su padre; y ademas quiere saber como era el antes de que
+                    conocieran sobre su enfermedad. Katharina le pide a sus hijos que piensen en el dolor que esta
+                    sintiendo y no vayan a la escuela.
+                </resumen>
+                <duracion>50 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Los cuerpos de Erik y Yassin aparecen en las obras de la
+                        construcción de la central nuclear. Helge observa el hallazgo</descripcion>
+                        <anio>1953</anio>
+                        <lugar>Central nuclear Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Helge</nombre>
+                                <familia>Doppler</familia>
+                                <edad>8</edad>
+                                <contexto>Doris, la madre de Helge es muy estricta con el. Su
+                                padre Egon es el jefe de policia</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Ulrich viaja por las cuevas a 1953 e intenta matar a Helge Doppler
+                        para evitar que mate a los niños. La policia le arresta por el secuestro
+                            de Helge y los asesinatos de Erik y Yassin. </descripcion>
+                        <anio>1953</anio>
+                        <lugar>Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Ulrich</nombre>
+                                <familia>Nielsen</familia>
+                                <edad>39</edad>
+                                <contexto>Se habia presentado en la comisaria
+                                    para averiguar si Mikkel era uno de los muertos.Al  preguntar
+                                    a Egon por Helge, se posiciono como principal sospechoso del
+                                secuestro de Helge</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>Jonas del futuro le pide al relojero escritor del libro "Un viaje a traves del
+                            tiempo " que arregle la maquina del tiempo para destruir el agujero espacio temporal
+                            de Windem.
+                        </descripcion>
+                        <anio>1986</anio>
+                        <lugar>Relojeria Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kahnwald</familia>
+                                <edad>38</edad>
+                                <contexto>Jonas le dice que el futuro debe volver a la normalidad y para
+                                ello necesita su ayuda.</contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>H.G.</nombre>
+                                <familia>Tannhaus</familia>
+                                <edad>63</edad>
+                                <contexto>El movil que Ulrich se habia dejado en su relojeria 33 anios atras, y el
+                                prototipo de maquina que el tenia le incentivan a arreglar la maquina de Jonas
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+            <episodio ep="9" titulo="Todo ocurre ahora">
+                <resumen>Al verse con su hijo; Helge le dice a este que algo va suceder otra vez y tiene que buscar a
+                    alguien muy importante para decirle que se detenga. Jonas decide ir hasta la cueva en donde
+                    desaparecio Mikkel; sin saber que estaba siendo vigilado. Mientras la doctora examina los cadaveres
+                    de las aves; Charlotte le confiesa a esta mujer que hace treinta y tres anios vivio algo similar y
+                    para ella parece estar conectado lo que paso en esa epoca con lo que esta pasando en la actualidad y
+                    Katharina le cuenta a su esposo que su companiera no logro obtener el permiso para registrar la
+                    central nuclear. Tras conocer un nuevo caso de desaparicion; las personas de Winden le reclaman a
+                    las autoridades por no tener el control sobre los extranios hechos que se han venido presentando en
+                    los ultimos dias.
+                </resumen>
+                <duracion>55 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Jonas investiga las cuevas del bosque de Windem</descripcion>
+                        <anio>2019</anio>
+                        <lugar>Cuevas Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Jonas</nombre>
+                                <familia>Kanhwald</familia>
+                                <edad>17</edad>
+                                <contexto>Jonas lleva consigo el mapa que su padre habia hecho de las cuevas y sus
+                                    tuneles y adonde conectaban.
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+            <episodio ep="10" titulo="Alfa y omega" >
+                <resumen>Peter se lleva una gran sorpresa. Jonas descubre la verdad sobre su familia, pero los misterios
+                    no han acabado. Helge afronta un sacrificio.
+                </resumen>
+                <duracion>57 min</duracion>
+                <sucesos>
+                    <suceso>
+                        <descripcion>Peter Doppler es testigo de la aparicion del cuerpo de Mads en el sotano
+                            de la cabania familiar. Llama a Tronte para que lo vea. Aparece Claudia
+                        </descripcion>
+                        <anio>2019</anio>
+                        <lugar>Sotano de la cabania de los Doppler</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Peter</nombre>
+                                <familia>Doppler, hijo de Helge</familia>
+                                <edad>48</edad>
+                                <contexto>Peter le habia sido infiel a su mujer Charlotte en el pasado,
+                                    y habia acudido alli a rezar por sus pecados cuando el cuerpo callo del
+                                    agujero negro que se formo en un momento delante de él.
+                                </contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Tronte</nombre>
+                                <familia>Nielsen, hijo de Agnes</familia>
+                                <edad>74</edad>
+                                <contexto>Tronte es el padre de Mads Nielsen, el hermano de Ulrich que había
+                                    desaparecido en 1986. Al ver su cadaver no da crédito. Rapidamente
+                                    llora desconsoladamente.
+                                </contexto>
+                            </personaje>
+                            <personaje>
+                                <sexo>Femenino</sexo>
+                                <nombre>Claudia</nombre>
+                                <familia>Tiedemann, hija de Doris y Egon</familia>
+                                <edad>68</edad>
+                                <contexto>Claudia es la madre de Regina. Fue jefa de la central en
+                                    1986 y tuvo un romance con Tronte. Claudia llega para explicarles por que
+                                    deben llevar el cadaver de Mads al bosque para que lo encuentre la
+                                    policia.
+                                </contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                    <suceso>
+                        <descripcion>
+                            Jonas conoce a su yo del futuro, que le deja encerrado en la sala de papel pintado
+                            en el sotano de los Doppler, para que cuando se produce la destruccion del agujero, que
+                            en realidad, es la creacion de un agujero de gusano entre 1953 y 1986.
+                        </descripcion>
+                        <anio>1953-1986</anio>
+                        <lugar>Bunker de la cabania de los Doppler, en el bosque de Windem</lugar>
+                        <personajes>
+                            <personaje>
+                                <sexo>Masculino</sexo>
+                                <nombre>Helge</nombre>
+                                <familia>Doppler</familia>
+                                <edad>8 anios</edad>
+                                <contexto>Hijo de Greta y Bernd. Nacio en 1945. En 1953 se encuentra
+                                con Ulrich Nielsen, que lo golpea en la cabeza intentando matarlo
+                                sin éxito. Se despierta en el bunker, donde viajara a 1986 a
+                                traves del agujero de gusano.</contexto>
+                            </personaje>
+                        </personajes>
+                    </suceso>
+                </sucesos>
+            </episodio>
+        </episodios>
+    </temporada>
+</temporadas>

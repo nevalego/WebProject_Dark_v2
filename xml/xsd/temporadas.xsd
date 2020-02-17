@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="temporadas">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="2" ref="temporada"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="temporada">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="episodios"/>
+            </xs:sequence>
+            <xs:attribute name="t" use="required" type="xs:decimal">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN"/>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="episodios">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="8" maxOccurs="12" ref="episodio"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="episodio">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="resumen"/>
+                <xs:element ref="duracion"/>
+                <xs:element ref="sucesos"/>
+            </xs:sequence>
+            <xs:attribute name="ep" use="required" type="xs:decimal">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN"/>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute default="" name="titulo" type="xs:string">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN"/>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="sucesos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="10" ref="suceso"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="suceso">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="descripcion"/>
+                <xs:element ref="anio"/>
+                <xs:element ref="lugar"/>
+                <xs:element ref="personajes"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="anio" type="xs:gYear"/>
+    <xs:element name="lugar" type="xs:string"/>
+    <xs:element name="descripcion" type="xs:string"/>
+    <xs:element name="personajes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="10" ref="personaje"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="personaje">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="sexo"/>
+                <xs:element ref="nombre"/>
+                <xs:element ref="familia"/>
+                <xs:element ref="edad"/>
+                <xs:element ref="contexto"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="resumen" type="xs:string"/>
+    <xs:element name="duracion" type="xs:string"/>
+    <xs:element name="sexo" type="xs:string"/>
+    <xs:element name="nombre" type="xs:string"/>
+    <xs:element name="familia" type="xs:string"/>
+    <xs:element name="edad" type="xs:gYear"/>
+    <xs:element name="contexto" type="xs:string"/>
+
+</xs:schema>

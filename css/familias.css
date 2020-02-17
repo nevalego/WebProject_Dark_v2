@@ -1,0 +1,20 @@
+table {
+    width:100%;
+}
+table tr {
+    margin: 1.0em;
+    text-align: left;
+}
+
+table td {
+    text-align: left;
+    margin: 1.0em;
+    border: solid grey;
+}
+
+table caption {
+    text-align: left;
+    margin: 1.0em;
+    font-size: 1.1em;
+    font-weight: bold;
+}

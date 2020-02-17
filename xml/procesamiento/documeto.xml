@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elementos>
+    <elemento numero="1" tipo="img">
+        <url>../../multimedia/windem.jpg</url>
+        <pie>Central nuclear en 1986</pie>
+    </elemento>
+    <elemento numero="2" tipo="img">
+        <url>../../multimedia/windem2.jpg</url>
+        <pie>Bosque de Windem</pie>
+    </elemento>
+    <elemento numero="3" tipo="img">
+        <url>../../multimedia/windem3.jpg</url>
+        <pie>Cruce entre carreteras de Windem</pie>
+    </elemento>
+    <elemento numero="4" tipo="img">
+        <url>../../multimedia/windem4.jpg</url>
+        <pie>Tronte y Ulrich en 1986 reciben a Egon Tiedemann</pie>
+    </elemento>
+    <elemento numero="5" tipo="img">
+        <url>../../multimedia/windem5.jpg</url>
+        <pie>Beso de Martha y Jonas</pie>
+    </elemento>
+    <elemento numero="6" tipo="img">
+        <url>../../multimedia/windem6.jpg</url>
+        <pie>Pared de habitación del Hotel de Jonas en 2019</pie>
+    </elemento>
+    <elemento numero="7" tipo="img">
+        <url>../../multimedia/windem7.jpg</url>
+        <pie>Pared del búnker en 2052</pie>
+    </elemento>
+    <elemento numero="8" tipo="img">
+        <url>../../multimedia/windem8.jpg</url>
+        <pie>Mapa de las cuevas de Michael</pie>
+    </elemento>
+    <elemento numero="9" tipo="img">
+        <url>../../multimedia/windem9.jpg</url>
+        <pie>Cadáver de Mads Nielsen</pie>
+    </elemento>
+    <elemento numero="10" tipo="img">
+        <url>../../multimedia/windem10.png</url>
+        <pie>Máquina del relojero T.G.Hauss</pie>
+    </elemento>
+</elementos>

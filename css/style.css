@@ -1,0 +1,57 @@
+header {
+    padding: 1em 1em 0em 0em;
+    width: 100%;
+    background: url("../multimedia/fondocuevajonas2.jpg");
+}
+header h1{
+    font-size: 7em;
+    margin: 0.5em 4em 0.5em 0.5em;
+    color: white;
+    font-family: Didot,Optima,Corbel,"Yu Gothic","Arial";
+}
+h2,h3{
+    font-family: Optima,"Yu Gothic","Arial";
+    margin:4em 5em 1.5em 1.5em;
+}
+nav {
+    margin: 1em 1em 1em 1em;
+    font-size: 1.5em;
+    background-color: white;
+    border-radius: 15px;
+}
+nav ul {
+    margin-left: 0;
+    padding-left: 0;
+    display: inline;
+    border: none;
+}
+nav ul li {
+    padding-left: 2px;
+    border: none;
+    list-style: none;
+    display: inline;
+    font-family: Optima,"Yu Gothic";
+}
+h2 {
+    font-size: 1.6em;
+}
+h3{
+    font-size: 1em;
+}
+html {
+    min-height: 100%;
+    position: relative;
+    background: url("../multimedia/background.jpg");
+}
+footer {
+    margin:2em 2em 2em 2em;
+    font-family: Optima,"Yu Gothic","Arial";
+    background: white;
+    border-radius: 10px;
+    color:black;
+}
+main{
+    background: white;
+    border-radius: 10px;
+    margin:2em 2em 2em 2em;
+}

@@ -1,0 +1,21 @@
+<!ELEMENT temporadas (temporada+)>
+        <!ELEMENT temporada ( episodios)>
+        <!ATTLIST temporada t CDATA #REQUIRED>
+        <!ELEMENT episodios (episodio+)>
+        <!ELEMENT episodio (resumen,duracion, sucesos)>
+        <!ATTLIST episodio ep CDATA #REQUIRED>
+        <!ATTLIST episodio titulo CDATA #REQUIRED>
+        <!ELEMENT sucesos (suceso+)>
+        <!ELEMENT suceso (descripcion,anio, lugar, personajes)>
+        <!ELEMENT anio (#PCDATA)>
+        <!ELEMENT lugar (#PCDATA)>
+        <!ELEMENT descripcion (#PCDATA)>
+        <!ELEMENT personajes (personaje+)>
+        <!ELEMENT personaje (sexo,nombre,familia,edad,contexto)>
+        <!ELEMENT resumen (#PCDATA)>
+        <!ELEMENT duracion (#PCDATA)>
+        <!ELEMENT sexo (#PCDATA)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT familia (#PCDATA)>
+        <!ELEMENT edad (#PCDATA)>
+        <!ELEMENT contexto (#PCDATA)>
