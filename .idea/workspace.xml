@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9309e8c1-7145-4e0c-b684-6814038a7c39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/explicacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/explicacion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/familias.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/familias.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/historia.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/historia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/personajes.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/personajes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/teorias.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/teorias.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/estrenos.html" beforeDir="false" afterPath="$PROJECT_DIR$/EcmaScript/estrenos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/windem.html" beforeDir="false" afterPath="$PROJECT_DIR$/EcmaScript/windem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/procesamiento/multimedia.html" beforeDir="false" afterPath="$PROJECT_DIR$/xml/procesamiento/multimedia.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <workItem from="1581974054683" duration="1998000" />
       <workItem from="1591955799037" duration="752000" />
       <workItem from="1591958785780" duration="144000" />
-      <workItem from="1591959002827" duration="667000" />
+      <workItem from="1591959002827" duration="926000" />
     </task>
     <servers />
   </component>
