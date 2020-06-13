@@ -45,6 +45,20 @@ header {
         border-bottom: none;
     }
 }
+section img {
+    margin: 1em;
+    position: relative;
+    width: 285px;
+    height: 230px;
+}
+section p {
+    margin: 0.5em 2em 2em 2em;
+    position: relative;
+}
+article {
+    margin:0.5em;
+    position: relative;
+}
 body{
     padding: 2em;
 }
