@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<temporadas xsi:schemaLocation="" "temporadas.xsd">
+<!DOCTYPE temporadas SYSTEM "temporadas.xsd">
 <temporadas>
     <temporada t="1">
         <episodios>
