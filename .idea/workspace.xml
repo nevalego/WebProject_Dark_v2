@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ac3949-3449-45b1-bd5b-2af521595494" name="Default Changelist" comment="" />
+    <list default="true" id="78ac3949-3449-45b1-bd5b-2af521595494" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/estrenos.html" beforeDir="false" afterPath="$PROJECT_DIR$/EcmaScript/estrenos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/windem.html" beforeDir="false" afterPath="$PROJECT_DIR$/EcmaScript/windem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/multimedia.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/multimedia.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/prueba.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rightMultimedia.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/explicacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/explicacion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/familias.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/familias.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/historia.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/historia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/personajes.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/personajes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/teorias.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/teorias.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/procesamiento/multimedia.html" beforeDir="false" afterPath="$PROJECT_DIR$/xml/procesamiento/multimedia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/xsd/temporadas.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/xsd/temporadas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/xsd/temporadas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/xsd/xml2svg.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/xsl/cronologia.html" beforeDir="false" afterPath="$PROJECT_DIR$/xml/xsl/cronologia.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dH9t2W9C30C4O4WuMbJ5wDfaNX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +52,9 @@
       <updated>1592071362521</updated>
       <workItem from="1592071363703" duration="1018000" />
       <workItem from="1592138092576" duration="5000" />
-      <workItem from="1592174332054" duration="1072000" />
+      <workItem from="1592174332054" duration="1244000" />
+      <workItem from="1592179695841" duration="516000" />
+      <workItem from="1592217431311" duration="4209000" />
     </task>
     <servers />
   </component>
